@@ -4,7 +4,7 @@
    "port": 3306,
    "username": "root",
    "password": "",
-   "database": "keycash",
+   "database": "scale",
    "synchronize": true,
    "logging": false,
    "entities": [
